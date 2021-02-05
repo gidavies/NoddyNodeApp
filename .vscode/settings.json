@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/2482da3d-7516-4b32-9057-d311caa99664/resourceGroups/gdnoddynodeapp-rg/providers/Microsoft.Web/sites/gdnoddynodeapp",
+    "appService.deploySubpath": "."
+}
